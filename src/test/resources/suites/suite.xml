@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AutomationModule Suite" verbose="1" >
+  <test name="Sign up Tests" >
+    <classes>
+      <class name="com.automation.gruyere.AutomationModule.SignupTests"/>
+    </classes>
+ </test>
+ 
+ <test name="Sign in Tests" >
+    <classes>
+      <class name="com.automation.gruyere.AutomationModule.SigninTests"/>
+    </classes>
+ </test>
+ 
+ <test name="Snippet Tests" >
+    <classes>
+      <class name="com.automation.gruyere.AutomationModule.SnippetTests"/>
+    </classes>
+ </test>
+</suite>
